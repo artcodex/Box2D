@@ -1,0 +1,6 @@
+/Users/avibrenner/Documents/Projects/Box2D/Box2D/Testbed/CMakeFiles/Testbed.dir
+/Users/avibrenner/Documents/Projects/Box2D/Box2D/glfw/CMakeFiles/glfw.dir
+/Users/avibrenner/Documents/Projects/Box2D/Box2D/glew/CMakeFiles/glew.dir
+/Users/avibrenner/Documents/Projects/Box2D/Box2D/HelloWorld/CMakeFiles/HelloWorld.dir
+/Users/avibrenner/Documents/Projects/Box2D/Box2D/Box2D/CMakeFiles/Box2D.dir
+/Users/avibrenner/Documents/Projects/Box2D/Box2D/Box2D/CMakeFiles/Box2D_shared.dir
